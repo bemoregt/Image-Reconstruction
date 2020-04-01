@@ -14,6 +14,8 @@ We can reconstruct the original image:
 
 ![Progress](https://raw.githubusercontent.com/cwg45/Image-Reconstruction/master/progress.gif)
 
+![Results](https://raw.githubusercontent.com/bemoregt/Image-Reconstruction/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-04-01%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%201.33.01.png)
+
 Citations:
 
 J. R. Fienup, "Phase retrieval algorithms: a comparison," Appl. Opt. 21, 2758-2769 (1982)
